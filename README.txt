@@ -19,7 +19,7 @@ participate in different events.
 ----------------------------------------------------------------How to use:--------------------------------------------------------
 
 Note: This tool will not function without the database to support its calculations. This essential component will not be included on 
-github due issues with the size of the database files. Users of Swift Conversions will be limited to personal associates until the 
+github due to issues with the size of the database files. Users of Swift Conversions will be limited to personal associates until the 
 project is made public elsewhere. 
 
 1. Select input event and insert score (default event is arbitrarily set to '800m'), minutes/seconds slot default to 0 when 
