@@ -1,4 +1,4 @@
-----------------------------------------------Swift Conversions: High School T&F Performance Calculator-------------------------------
+---------------------------------------Swift Conversions: High School Track & Field Performance Calculator-------------------------------
 
 Summary:
 
