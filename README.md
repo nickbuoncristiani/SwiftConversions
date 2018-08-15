@@ -1,6 +1,6 @@
-#Swift Conversions: High School Track & Field Performance Calculator
+# Swift Conversions: High School Track & Field Performance Calculator
 
-Summary:
+## Summary:
 
 -Swift Conversions is an event to event performance equivalence calculator for High School Track and Field. 
 In short, Swift Conversions uses percentile to establish common ground between performances in the sport. For example: if a score of 
@@ -16,7 +16,7 @@ in the calculations. Data has been obtained via web scraping.
 used to predict future potential based on current ability. It can be used to compare the aptitudes of two or more athletes who 
 participate in different events.
 
-----------------------------------------------------------------How to use:--------------------------------------------------------
+## How to use:
 
 Note: This tool will not function without the database to support its calculations. This essential component will not be included on 
 github due to issues with the size of the database files. Users of Swift Conversions will be limited to personal associates until the 
@@ -36,8 +36,7 @@ on this refined sample size.
 5. Repeat this process for the output event, and click the 'get result' button. The output score, as well as the associated percentile 
 will be included in the result. 
 
------------------------------------------------------------Disclaimers------------------------------------------------------------------
-
+## Disclaimers
 
 -Percentile only serves as a rough indicator of performance 'aptitude'. Events are assumed to be equal when in reality they are not.
 It is expected, however, that the various events in high school track and field are similarly accessible and no particular event 
